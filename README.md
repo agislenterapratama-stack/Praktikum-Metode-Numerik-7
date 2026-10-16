@@ -39,4 +39,4 @@ Untuk menjalankan *source code* ini, Anda membutuhkan:
 
 1. *Clone* repositori ini ke komputer lokal Anda:
    ```bash
-   git clone [https://github.com/agislenterapratama-stack/nama-repo-anda.git](https://github.com/agislenterapratama-stack/nama-repo-anda.git)
+   git clone [[https://github.com/agislenterapratama-stack/nama-repo-anda.git](https://github.com/agislenterapratama-stack/Praktikum-Metode-Numerik-7)]
